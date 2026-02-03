@@ -2,8 +2,8 @@ import time
 import requests
 from telegram import Bot
 
-TOKEN = "ВСТАВЬ_СЮДА_TOKEN"
-CHAT_ID = -1001234567890   # твой chat_id
+TOKEN = "8475771928:AAF48FGvNohJTfd64I3AN19TXoyQKhYZxQ8"
+CHAT_ID = -3765995683  # твой chat_id
 CHECK_INTERVAL = 60
 
 API_URL = "https://alerts.in.ua/api/states"
